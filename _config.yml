@@ -1,0 +1,28 @@
+name: Persyahmain D - Mage
+favicon: null
+layout_spectrum: 0.3313176033552736
+typography_spectrum: 0.7358250818215311
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.008421692531555891
+  lightness: 0.7913500631693751
+  saturation: 0.7914649418089539
+  rhythmicContrast: 0.20778587297536433
+purpose: []
